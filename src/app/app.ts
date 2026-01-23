@@ -1,16 +1,20 @@
-import { Component, signal } from '@angular/core';
+import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
+import { Footer } from './components/footer';
+import { Navbar } from './components/navbar';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet],
+  imports: [
+    RouterOutlet,
+    Navbar,
+    Footer,
+  ],
   template: `
-    <h1>Welcome to {{ title() }}!</h1>
-
+    <app-navbar />
     <router-outlet />
+    <app-footer />
   `,
   styles: [],
 })
-export class App {
-  protected readonly title = signal('asbl');
-}
+export class App {}
