@@ -64,7 +64,7 @@ import { RouterLink } from '@angular/router';
             </p>
             <p class="pt-2">
               L'ASBL SAEL est une association sans but lucratif active dans l'accompagnement
-              socio-scolaire et le suivi pédagogique des élèves du primaire et du secondaire,
+              socio-scolaire et le suivi pédagogique des apprenants du primaire et du secondaire,
               conformément aux programmes officiels belges (FWB).
             </p>
           </div>

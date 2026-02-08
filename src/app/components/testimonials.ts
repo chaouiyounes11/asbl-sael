@@ -144,7 +144,7 @@ interface Testimonial {
             </div>
             <h3 class="text-xl font-semibold text-text-primary mb-3">Témoignages vidéo</h3>
             <p class="text-text-secondary max-w-md mx-auto">
-              Nous préparons actuellement des témoignages vidéo de parents et d'élèves. Ils seront
+              Nous préparons actuellement des témoignages vidéo de parents et d'apprenants. Ils seront
               bientôt disponibles ici.
             </p>
           </div>
@@ -337,7 +337,7 @@ export class Testimonials implements OnInit, OnDestroy, AfterViewInit {
       quote:
         "Nous tenions à vous adresser nos sincères remerciements pour le travail remarquable que vous accomplissez. Grâce à votre professionnalisme, nos enfants sont ravis de participer à vos sessions en ligne même en vacances et ils apprennent énormément ! Nous apprécions particulièrement l'ambiance chaleureuse, bienveillante et rassurante que vous créez. La relation que vous entretenez avec les enfants est basée sur le respect, la patience et l'encouragement, ce qui leur donne envie d'apprendre et de s'épanouir. Votre dévouement et votre proximité avec eux font une réelle différence dans leur parcours.",
       name: 'David & Fairouz',
-      role: "Parents d'élèves",
+      role: "Parents de participants",
     },
   ];
 

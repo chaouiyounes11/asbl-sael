@@ -99,7 +99,7 @@ export class Faq {
     {
       question: 'Pourquoi SAEL est une ASBL ?',
       answer:
-        "SAEL est une association sans but lucratif. Notre objectif n'est pas le profit, mais l'accompagnement des élèves. Ce statut nous permet de proposer des tarifs accessibles et de nous concentrer sur la qualité du suivi.",
+        "SAEL est une association sans but lucratif. Notre objectif n'est pas le profit, mais l'accompagnement des apprenants. Ce statut nous permet de proposer des tarifs accessibles et de nous concentrer sur la qualité du suivi.",
     },
     {
       question: 'Est-ce une école de devoirs ?',

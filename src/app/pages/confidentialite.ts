@@ -77,7 +77,7 @@ import { RouterLink } from '@angular/router';
             <p>Les données personnelles sont utilisées exclusivement pour :</p>
             <ul class="list-disc list-inside space-y-1 pl-2">
               <li>la gestion des inscriptions ;</li>
-              <li>le suivi pédagogique des élèves ;</li>
+              <li>le suivi pédagogique des apprenants ;</li>
               <li>la communication avec les familles ;</li>
               <li>la gestion administrative et comptable de l'ASBL.</li>
             </ul>

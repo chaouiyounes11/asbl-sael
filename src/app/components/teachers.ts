@@ -93,7 +93,7 @@ export class Teachers {
       name: 'Gontran',
       role: 'Référent pédagogique',
       description:
-        "Gontran apporte structure et méthode à l'accompagnement. Il aide les élèves à s'organiser, à comprendre leurs cours et à gagner en autonomie, avec un suivi régulier et personnalisé.",
+        "Gontran apporte structure et méthode à l'accompagnement. Il aide les apprenants à s'organiser, à comprendre leurs cours et à gagner en autonomie, avec un suivi régulier et personnalisé.",
       image: 'gontran.png',
       initials: 'G',
     },
