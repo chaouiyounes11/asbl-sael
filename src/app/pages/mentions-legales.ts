@@ -117,7 +117,7 @@ import { RouterLink } from '@angular/router';
           <div class="bg-white rounded-xl p-6 shadow-sm text-sm text-text-secondary leading-relaxed space-y-3">
             <p>
               Les contenus proposés sur ce site visent à accompagner le parcours scolaire de
-              l'élève sans se substituer à l'enseignement dispensé par l'école. L'ASBL SAEL ne
+              l'apprenant sans se substituer à l'enseignement dispensé par l'école. L'ASBL SAEL ne
               peut être tenue responsable d'un usage inadapté des services ou contenus proposés.
             </p>
             <p>

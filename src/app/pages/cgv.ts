@@ -163,7 +163,7 @@ import { RouterLink } from '@angular/router';
           <div class="bg-white rounded-xl p-6 shadow-sm text-sm text-text-secondary leading-relaxed space-y-3">
             <p>L'ASBL SAEL s'engage à :</p>
             <ul class="list-disc list-inside space-y-1 pl-2">
-              <li>proposer un accompagnement structuré, sérieux et adapté aux besoins de chaque élève ;</li>
+              <li>proposer un accompagnement structuré, sérieux et adapté aux besoins de chaque apprenant ;</li>
               <li>respecter les référentiels et programmes officiels belges (FWB) ;</li>
               <li>assurer une communication claire et respectueuse avec les familles.</li>
             </ul>
@@ -185,11 +185,11 @@ import { RouterLink } from '@angular/router';
             </p>
             <p>
               L'ASBL SAEL s'engage à fournir un accompagnement sérieux, structuré et adapté aux
-              besoins de l'élève. Toutefois, l'ASBL SAEL ne peut être tenue responsable :
+              besoins de l'apprenant. Toutefois, l'ASBL SAEL ne peut être tenue responsable :
             </p>
             <ul class="list-disc list-inside space-y-1 pl-2">
               <li>
-                des résultats scolaires obtenus par l'élève, ceux-ci dépendant notamment de son
+                des résultats scolaires obtenus par l'apprenant, ceux-ci dépendant notamment de son
                 implication personnelle et des décisions de l'établissement scolaire ;
               </li>
               <li>

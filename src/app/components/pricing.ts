@@ -34,7 +34,7 @@ interface Tab {
             Des formules claires, adaptées à chaque situation
           </h2>
           <p class="text-base md:text-lg text-text-secondary max-w-2xl mx-auto">
-            Chaque élève a des besoins différents. Ces tarifs sont indicatifs — l'entretien
+            Chaque apprenant a des besoins différents. Ces tarifs sont indicatifs — l'entretien
             découverte nous permet de vous conseiller la formule la plus adaptée.
           </p>
         </div>

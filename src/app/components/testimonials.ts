@@ -306,13 +306,13 @@ export class Testimonials implements OnInit, OnDestroy, AfterViewInit {
     {
       quote:
         "Ma fille est en 2ème secondaire et a des difficultés en mathématiques. Avec les cours particuliers de SAEL, elle a trouvé la patience et la douceur dont elle a besoin dans l'apprentissage de cette matière qu'elle redoute.",
-      name: "Parent d'élève",
+      name: "Parent de participant",
       role: 'Parent · 2ème secondaire',
     },
     {
       quote:
         "Mon fils est accompagné par Monsieur Gontran et nous sommes très satisfaits de son suivi. Nous avons particulièrement apprécié son écoute, sa bienveillance et sa manière de s'adapter aux besoins spécifiques de notre enfant. Les séances ont eu un impact très positif, tant sur la confiance de notre fils que sur sa façon d'aborder ses difficultés. L'approche de SAEL est à la fois professionnelle, humaine et rassurante pour les parents. Un grand merci pour cet accompagnement de qualité.",
-      name: "Parent d'élève",
+      name: "Parent de participant",
       role: 'Parent · Secondaire',
     },
     {
@@ -324,14 +324,14 @@ export class Testimonials implements OnInit, OnDestroy, AfterViewInit {
     {
       quote:
         "Cela fait la deuxième année que nous avons inscrit nos filles à SAEL. M. Gontran est très pédagogue et a une manière innée pour expliquer les différentes matières. De même, je tenais aussi à mettre Mme Fatima à l'honneur pour sa gentillesse, son aide et sa réactivité. Merci à toute l'équipe SAEL pour votre aide, soutien, pour nous parents, vous êtes une aide précieuse.",
-      name: "Parent d'élève",
+      name: "Parent de participant",
       role: 'Parent · Secondaire',
     },
     {
       quote:
-        "Je suis une élève de Mr Gontran et une ancienne élève de Mme Fatima. Ils sont une équipe formidable qui nous aident dans nos moments de faiblesses, incertitudes à surmonter nos difficultés. Mr Gontran a toujours le mot pour rire et nous mettre à l'aise. Les matières sont plus compréhensibles avec ses explications. Merci.",
-      name: 'Élève de SAEL',
-      role: 'Élève · Secondaire',
+        "Je suis une apprenante de Mr Gontran et une ancienne apprenante de Mme Fatima. Ils sont une équipe formidable qui nous aident dans nos moments de faiblesses, incertitudes à surmonter nos difficultés. Mr Gontran a toujours le mot pour rire et nous mettre à l'aise. Les matières sont plus compréhensibles avec ses explications. Merci.",
+      name: 'Apprenante de SAEL',
+      role: 'Apprenante · Secondaire',
     },
     {
       quote:

@@ -85,7 +85,7 @@ export class Teachers {
       name: 'Fatima',
       role: 'Accompagnatrice pédagogique',
       description:
-        "Fatima accompagne chaque élève avec bienveillance et patience. À l'écoute des besoins de chacun, elle adapte son approche au rythme et aux objectifs de l'enfant pour l'aider à reprendre confiance.",
+        "Fatima accompagne chaque apprenant avec bienveillance et patience. À l'écoute des besoins de chacun, elle adapte son approche au rythme et aux objectifs de l'enfant pour l'aider à reprendre confiance.",
       image: 'fatima.png',
       initials: 'F',
     },

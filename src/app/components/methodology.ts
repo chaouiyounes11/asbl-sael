@@ -91,7 +91,7 @@ interface Step {
             <div class="rounded-2xl overflow-hidden shadow-lg">
               <img
                 src="methodology.png"
-                alt="Élève accompagné en ligne"
+                alt="Apprenant accompagné en ligne"
                 class="w-full h-auto object-cover"
               />
             </div>

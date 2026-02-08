@@ -57,7 +57,7 @@ import { RouterLink } from '@angular/router';
             <p>Les données susceptibles d'être collectées sont notamment :</p>
             <ul class="list-disc list-inside space-y-1 pl-2">
               <li>nom et prénom du parent ou représentant légal ;</li>
-              <li>nom et prénom de l'élève ;</li>
+              <li>nom et prénom de l'apprenant ;</li>
               <li>coordonnées de contact (e-mail, téléphone) ;</li>
               <li>informations scolaires utiles au suivi pédagogique ;</li>
               <li>données administratives nécessaires à la facturation.</li>
