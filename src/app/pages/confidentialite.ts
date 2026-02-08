@@ -118,10 +118,10 @@ import { RouterLink } from '@angular/router';
             <p>
               Toute demande peut être adressée par e-mail à :
               <a
-                href="mailto:soutienscolairesael@gmail.com"
+                href="mailto:contact@asblsael.com"
                 class="text-cta-primary hover:text-cta-primary-hover transition-colors"
               >
-                soutienscolairesael&#64;gmail.com
+                contact&#64;asblsael.com
               </a>
             </p>
             <p>

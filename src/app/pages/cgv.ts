@@ -56,10 +56,10 @@ import { RouterLink } from '@angular/router';
             <p>
               <span class="font-medium text-text-primary">Adresse e-mail de contact :</span>
               <a
-                href="mailto:soutienscolairesael@gmail.com"
+                href="mailto:contact@asblsael.com"
                 class="text-cta-primary hover:text-cta-primary-hover transition-colors"
               >
-                soutienscolairesael&#64;gmail.com
+                contact&#64;asblsael.com
               </a>
             </p>
             <p class="pt-2">
