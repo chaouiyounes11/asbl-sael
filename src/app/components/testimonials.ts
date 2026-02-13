@@ -224,7 +224,7 @@ export class Testimonials {
       quote:
         "Je voulais vous faire un petit retour concernant l'accompagnement de Zoé en mathématiques. Depuis qu'elle a commencé les cours avec l'ASBL, elle a pris une confiance en elle assez incroyable. Au-delà des progrès dans la matière, on voit vraiment qu'elle a gagné en assurance. Elle ose davantage prendre sa place en classe, poser des questions et participer. Son professeur nous a d'ailleurs fait un retour très positif sur son comportement et son implication. Et pour Zoé, la plus belle reconnaissance, ce sont ses points. Elle est revenue récemment avec des résultats dont elle était vraiment fière, et c'est la première fois qu'on la voit aussi heureuse par rapport aux maths. Je voulais aussi souligner la disponibilité de l'ASBL. Le mode de communication via WhatsApp est vraiment simple et efficace, ce qui facilite énormément les échanges. Nous avons également beaucoup apprécié la compréhension et le non-jugement dont vous faites preuve envers les enfants. C'est un accompagnement vraiment précieux, et aussi très soutenant pour les parents. Les premiers contacts avec Gontran ont d'ailleurs été incroyablement clairs et rassurants, ce qui nous a tout de suite mis en confiance. Un grand merci.",
       name: 'Parent de Zoé',
-      role: 'Parent · Secondaire',
+      role: 'Parent · Primaire',
     },
   ];
 
