@@ -21,7 +21,7 @@ interface NavLink {
     <!-- Desktop + Mobile Navbar -->
     <header
       #headerEl
-      class="fixed top-0 left-0 right-0 z-50 transition-all duration-500"
+      class="fixed top-10 left-0 right-0 z-50 transition-all duration-500"
       [class]="
         menuOpen()
           ? 'bg-gradient-to-br from-gray-900 via-gray-900 to-gray-800'
@@ -296,6 +296,9 @@ interface NavLink {
   imports: [NgOptimizedImage],
 })
 export class Navbar {
+  /** Hauteur du bandeau d'annonce fixe au-dessus de la navbar (px). */
+  private static readonly BANNER_HEIGHT = 40;
+
   private readonly platformId = inject(PLATFORM_ID);
   private readonly destroyRef = inject(DestroyRef);
   private readonly headerEl = viewChild<ElementRef<HTMLElement>>('headerEl');
@@ -357,7 +360,8 @@ export class Navbar {
 
     const el = document.getElementById(sectionId);
     if (el) {
-      const headerHeight = this.headerEl()?.nativeElement.offsetHeight ?? 80;
+      // Navbar + bandeau d'annonce fixe (40px) au-dessus.
+      const headerHeight = (this.headerEl()?.nativeElement.offsetHeight ?? 80) + Navbar.BANNER_HEIGHT;
       const top = el.getBoundingClientRect().top + window.scrollY - headerHeight;
       window.scrollTo({ top, behavior: 'smooth' });
     }
