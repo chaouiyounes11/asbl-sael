@@ -40,7 +40,7 @@ import { RouterLink } from '@angular/router';
             <p>Association Sans But Lucratif (ASBL – droit belge)</p>
             <p>
               <span class="font-medium text-text-primary">Siège social :</span>
-              Rue d'Alost 7, 1000 Bruxelles, Belgique
+              Rue des Anciens Étangs 55, bte 1, 1190 Bruxelles, Belgique
             </p>
             <p>
               <span class="font-medium text-text-primary">Numéro d'entreprise (BCE) :</span>
